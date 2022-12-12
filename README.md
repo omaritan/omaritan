@@ -1,7 +1,10 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=omaritan.omaritan">
+<p align="center">
 
 # 👋 Helllo there! I'm Omaritan
+
+</p>
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/omaritan" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>

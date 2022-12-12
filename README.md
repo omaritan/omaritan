@@ -44,7 +44,7 @@
 ### 🗣 Recent activities
 ---
 
-<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
+<!--START_SECTION:activity-->
 
 ### 👀 Stats
 ---
@@ -54,7 +54,7 @@
   <img align="left" width="400" height="100%" src ="https://github-readme-stats.vercel.app/api?username=omaritan&show_icons=true&theme=radical" />
 </a>
 <a href="">
-  <img align="right" width="400" height="100%" src ="https://streak-stats.demolab.com/?user=omaritan"/>
+  <img align="right" width="390" height="100%" src ="https://streak-stats.demolab.com/?user=omaritan"/>
 </a>
 </div>
 <br><br><br><br><br><br><br><br><br><br>

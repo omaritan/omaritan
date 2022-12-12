@@ -42,18 +42,22 @@
 
 ### 👀 Stats:
 ---
-
+<p align=center>
+  <div align=center>
 <a href="">
-  <img align="center" src ="https://github-readme-stats.vercel.app/api?username=omaritan&show_icons=true&theme=radical" />
+  <img align="left" width="390" src ="https://github-readme-stats.vercel.app/api?username=omaritan&show_icons=true&theme=radical" />
 </a>
+<a href="">
+  <img align="right" width="390" src ="https://streak-stats.demolab.com/?user=omaritan"/>
+</a>
+</div>
+<br><br><br><br><br><br><br><br><br><br>
+<div align=center>
 <a href="">
   <img align="center"  src ="https://github-readme-stats.vercel.app/api/top-langs/?username=omaritan&layout=compact&theme=dark" />
 </a>
-<div align="center">
-<a href="">
-  <img align="center" src ="https://streak-stats.demolab.com/?user=omaritan"/>
-</a>
-</div >
+</div>
+</p>
 
 ### 👨‍💻 My Considerbale Projects:
 ---

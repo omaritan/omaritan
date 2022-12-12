@@ -30,23 +30,40 @@
 </p>
 
 ### 📝 Latest Blog Posts:
+---
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ### 🗣 Recent activities:
+---
 
 <!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
 
 ### 👀 Stats:
+---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omaritan&show_icons=true&theme=radical)
-
+<a href="">
+  <img align="center" height= "195" width ="495" src ="https://github-readme-stats.vercel.app/api?username=omaritan&show_icons=true&theme=radical" />
+</a>
+<a href="">
+  <img align="center" height= "195" width ="495" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=omaritan&layout=compact&theme=dark" />
+</a>
+<div align="center">
+<a href="">
+  <img align="center" height= "195" width ="495" src ="https://streak-stats.demolab.com/?user=omaritan"/>
+</a>
+</div >
 ### 👨‍💻 My Considerbale Projects:
+---
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=omaritan&repo=rusty-cs&theme=react)
-
-
+<a href="">
+  <img align="center" src ="https://github-readme-stats.vercel.app/api/pin/?username=omaritan&repo=rusty-cs&theme=react" />
+  </a>
+<!--<a href="">
+  <img align="center" src ="https://github-readme-stats.vercel.app/api/pin/?username=omaritan&repo=rusty-cs&theme=react" />
+</a>
+-->
 
 <!---
 omaritan/omaritan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

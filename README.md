@@ -44,7 +44,7 @@
 ### 🗣 Recent activities
 ---
 
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start--> 
 
 ### 👀 Stats
 ---

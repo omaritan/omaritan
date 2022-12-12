@@ -11,6 +11,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
+      - name: Use Node.js 16
 
       # Pin the version to the latest stable version.
       # If you want to live on edge, use 'master' branch.

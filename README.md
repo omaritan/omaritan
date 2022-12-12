@@ -54,16 +54,17 @@
   <img align="center" src ="https://streak-stats.demolab.com/?user=omaritan"/>
 </a>
 </div >
+
 ### 👨‍💻 My Considerbale Projects:
 ---
 
 <a href="">
   <img align="center" src ="https://github-readme-stats.vercel.app/api/pin/?username=omaritan&repo=rusty-cs&theme=react" />
   </a>
-<!--<a href="">
+<a href="">
   <img align="center" src ="https://github-readme-stats.vercel.app/api/pin/?username=omaritan&repo=rusty-cs&theme=react" />
 </a>
--->
+
 
 <!---
 omaritan/omaritan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

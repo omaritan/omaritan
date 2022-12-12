@@ -15,4 +15,4 @@ jobs:
         with:
           max_post_count: "5"
           remove_duplicates: true
-          feed_list: "https://dev.to/feed/gautamkrishnar,https://www.gautamkrishnar.com/feed/"
+          feed_list: "https://omaritan.github.com"

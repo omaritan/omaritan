@@ -1,10 +1,7 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=omaritan.omaritan">
-<p align="center">
 
 # 👋 Helllo there! I'm Omaritan
-
-</p>
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/omaritan" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
@@ -18,7 +15,8 @@
 - 💬 Ask me anything on my [issues page](https://www.github.com/omaritan/omaritan/issues)
 - :mailbox: connect with me on linkedin
 
-## Favorite Tech:
+### Favorite Tech:
+---
 
 <p align="center">
 <code><img title="Rust" src="images/rust-lang.svg" width="48" height="48"></code>
@@ -32,26 +30,26 @@
     <code><img title="Docker" src="images/docker.svg" width="48" height="48"></code>
 </p>
 
-### 📝 Latest Blog Posts:
+### 📝 Latest Blog Posts
 ---
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-### 🗣 Recent activities:
+### 🗣 Recent activities
 ---
 
 <!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
 
-### 👀 Stats:
+### 👀 Stats
 ---
 <p align=center>
   <div align=center>
 <a href="">
-  <img align="left" width="400" height="195" src ="https://github-readme-stats.vercel.app/api?username=omaritan&show_icons=true&theme=radical" />
+  <img align="left" width="400" height="100%" src ="https://github-readme-stats.vercel.app/api?username=omaritan&show_icons=true&theme=radical" />
 </a>
 <a href="">
-  <img align="right" width="400" height="195" src ="https://streak-stats.demolab.com/?user=omaritan"/>
+  <img align="right" width="400" height="100%" src ="https://streak-stats.demolab.com/?user=omaritan"/>
 </a>
 </div>
 <br><br><br><br><br><br><br><br><br><br>
@@ -62,15 +60,30 @@
 </div>
 </p>
 
-### 👨‍💻 My Considerbale Projects:
+### 👨‍💻 Main Projects
 ---
-
+<div width="100%" align="center">
 <a href="">
-  <img align="center" src ="https://github-readme-stats.vercel.app/api/pin/?username=omaritan&repo=rusty-cs&theme=react" />
+  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=omaritan&repo=rusty-cs&theme=react&border_color=61dafb&border_radius=10" />
+  </a>
+  </div> <!--remove when adding new repo -->
+<!---
+<a href="">
+  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=omaritan&repo=rusty-cs&theme=react&border_color=61dafb&border_radius=10" />
+</a>
+</div>
+-->
+<!---
+<br><br><br><br><br><br><br><br>
+--
+<div width="100%" align="center">
+<a href="">
+  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=omaritan&repo=rusty-cs&theme=react&border_color=61dafb&border_radius=10" />
   </a>
 <a href="">
-  <img align="center" src ="https://github-readme-stats.vercel.app/api/pin/?username=omaritan&repo=rusty-cs&theme=react" />
+  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=omaritan&repo=rusty-cs&theme=react&border_color=61dafb&border_radius=10" />
 </a>
+</div>
 
 
 <!---

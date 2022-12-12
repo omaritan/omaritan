@@ -44,14 +44,14 @@
 ---
 
 <a href="">
-  <img align="center" height= "195" width ="495" src ="https://github-readme-stats.vercel.app/api?username=omaritan&show_icons=true&theme=radical" />
+  <img align="center" src ="https://github-readme-stats.vercel.app/api?username=omaritan&show_icons=true&theme=radical" />
 </a>
 <a href="">
-  <img align="center" height= "195" width ="495" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=omaritan&layout=compact&theme=dark" />
+  <img align="center"  src ="https://github-readme-stats.vercel.app/api/top-langs/?username=omaritan&layout=compact&theme=dark" />
 </a>
 <div align="center">
 <a href="">
-  <img align="center" height= "195" width ="495" src ="https://streak-stats.demolab.com/?user=omaritan"/>
+  <img align="center" src ="https://streak-stats.demolab.com/?user=omaritan"/>
 </a>
 </div >
 ### 👨‍💻 My Considerbale Projects:

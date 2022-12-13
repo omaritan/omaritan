@@ -6,7 +6,7 @@
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/omaritan" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/omaritan" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/20751205/omaritan" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://stackoverflow.com/users/13675497/omaritan" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
   <code><a href="https://leetcode.com/omaritan" title="LeetCode Profile"><img width="22" src="images/LeetCode.svg"> LeetCode</a></code>
 </h5>
 
